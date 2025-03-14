@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Ambiente Virtual
+venv/
+env/
+
+# Arquivos de dados
+/data/
+
+# Arquivos csv
+*.csv
+
+# Arquivos de log
+*.log
+
+# Arquivos de resultados temporários
+*.h5
+*.pkl
+
+# Arquivos de treinamento de modelos
+model/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dependências instaladas
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ignorar arquivos grandes
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+
+semeq/
