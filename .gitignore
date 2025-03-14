@@ -17,7 +17,6 @@ data/*
 # Permitir que a pasta data/ seja rastreada
 !data/.gitkeep
 
-
 # Arquivos csv
 *.csv
 
