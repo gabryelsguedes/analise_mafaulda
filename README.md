@@ -13,7 +13,7 @@ A base de dados é composta de 49 amostras do motor em funcionamento normal e 33
 | **Coluna 5 a 7** | Sensor de vibração triaxial (Dados de vibração dos eixos X, Y e Z) |
 | **Coluna 8**     | Microfone                                                          |
 
-Para o desenvolvimento do projeto, foram utilizados apenas os sinais de vibração dos dois sensores presentes no dataset.
+Para o desenvolvimento do projeto, foram utilizados apenas os sinais de vibração dos dois sensores presentes no dataset. De acordo com a norma ISO 10816, através dos sinais de vibração é possível realizar a identificação de diferentes tipos de falhas, dentre elas o desbalanceamento.
 
 ## Estrutura do Projeto
 
