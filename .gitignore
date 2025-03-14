@@ -11,8 +11,12 @@ __pycache__/
 venv/
 env/
 
-# Arquivos de dados
-/data/
+# Ignorar todo o conteúdo dentro da pasta data/
+data/*
+
+# Permitir que a pasta data/ seja rastreada
+!data/.gitkeep
+
 
 # Arquivos csv
 *.csv

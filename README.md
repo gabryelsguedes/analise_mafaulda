@@ -1,4 +1,4 @@
-# Vibration Analysis - Análise de Vibração e Modelagem
+# Analise MAFAULDA - Análise de Vibração e Modelagem
 
 Este projeto realiza a análise de dados e aplicação de diferentes modelos de aprendizado de máquina com o uso da base de dados MAFAULDA(Machinary Fault Database), coletado através do link [MAFAULDA](https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset/data). Essa base de dados simula diferentes estados de um motor elétrico, para maiores informações acessar esse [link](https://www02.smt.ufrj.br/~offshore/mfs/page_01.html).
 
