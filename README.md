@@ -68,7 +68,7 @@ Faça o download da base de dados no link citado acima. Extraia as pastas normal
 
 Se a base for baixada no site do kaggle, nao há necessidade de realizar qualquer modificação, apenas adicionar as pastas conforme mencionado anteriormente.
 
-No script principal, verifique o caminho
+No script principal, verifique os caminhos csv_folder_imbalance e csv_folder_normal se estão com os caminhos corretos para as pastas Imbalance e Normal.
 
 Todas as outras etapas são realizadas automaticamente ao executar o script principal.
 
